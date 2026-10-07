@@ -1,0 +1,12 @@
+{
+  "responses": [
+    {
+      "origin": "*",
+      "credentials": true
+    },
+    {
+      "origin": "https://example.test",
+      "credentials": true
+    }
+  ]
+}
